@@ -1,4 +1,4 @@
 # Z-algorithm
 
-Linear Pattern Searching Algorithm <br>
+Linear Time Pattern Searching Algorithm <br>
 Written in C with time measurement.
